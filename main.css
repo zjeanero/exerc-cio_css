@@ -127,3 +127,8 @@ section h2 {
 #tecnology .articles article a{
     background-color: rgb(4, 51, 83);
 }
+
+img {
+    width: 200px;
+    height: 300px;
+}
